@@ -59,3 +59,10 @@ body {
     text-shadow: 
         -1px -1px 0 black;
 }
+.canciones {
+    display: flex;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    align-self: center;
+}
